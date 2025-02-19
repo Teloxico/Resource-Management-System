@@ -1,1 +1,0 @@
-"# Adaptive-Resource-Management-System" 

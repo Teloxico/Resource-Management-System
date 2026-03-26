@@ -1,0 +1,25 @@
+# Build output
+build/
+
+# Generated docs (can be regenerated with Doxygen)
+docs/
+
+# SQLite database files
+*.db
+*.db-shm
+*.db-wal
+
+# Log files
+*.log
+
+# ImGui layout state
+*imgui.ini
+
+# IDE / editor
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Claude Code local config
+.claude/
